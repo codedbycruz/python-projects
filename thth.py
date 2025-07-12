@@ -1,0 +1,6 @@
+print("Seja bem vindoo à calculadora ultra mega max 3000")
+print("Vamos começar.")
+num1 = float(input("Qual é o primeiro número?"))
+num2 = float(input("Qual é o segundo número?"))
+print("Os sinais disponiveis são: '+' para adição, '-' para subtração, ")
+sinal = input("Qual é o sinal de operação?")
